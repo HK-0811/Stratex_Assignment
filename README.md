@@ -16,3 +16,6 @@
 - GET `/books/:id` - Retrieve details of a specific book (authenticated users)
 - PUT `/books/:id` - Update a book (sellers only)
 - DELETE `/books/:id` - Delete a book (sellers only)
+
+## Video Link
+https://drive.google.com/file/d/1deB5yXJ-0O-qktCJtraMyrs4LxQhQXhS/view?usp=sharing
