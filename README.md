@@ -1,7 +1,7 @@
 
 ## Setup
 
-1. Clone the repository `git clone https://github.com/yourusername/book-management-system.git`
+1. Clone the repository `https://github.com/HK-0811/book-management-system.git`
 2. Install dependencies: `npm install`
 3. Set up the database in the `.env` file
 4. Run migrations: `npx prisma migrate dev`
