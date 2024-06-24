@@ -1,7 +1,7 @@
 ## Project Overview
 The Book Management System is a backend application designed to manage book records and user registrations. It provides endpoints for adding new books, viewing book details, and handling user registrations. The application is built with Node.js, Express.js, and Prisma ORM, and uses PostgreSQL as its database.
 
-# Key features of the application include:
+ Key features of the application include:
 
 - Uploading and parsing CSV files to add multiple book records at once.
 - User registration and role-based access (users and sellers).
