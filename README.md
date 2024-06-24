@@ -3,10 +3,10 @@ The Book Management System is a backend application designed to manage book reco
 
 # Key features of the application include:
 
-Uploading and parsing CSV files to add multiple book records at once.
-User registration and role-based access (users and sellers).
-Data validation and error handling for robust API operations.
-Automatic sequence resetting for clean database states during testing and development.
+- Uploading and parsing CSV files to add multiple book records at once.
+- User registration and role-based access (users and sellers).
+- Data validation and error handling for robust API operations.
+- Automatic sequence resetting for clean database states during testing and development.
 
 ## Setup
 
